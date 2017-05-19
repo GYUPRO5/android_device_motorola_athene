@@ -108,7 +108,7 @@ PRODUCT_PACKAGES += \
 
 # CMActions
 PRODUCT_PACKAGES += \
-    CMActions
+    Gestures
 
 # Display
 PRODUCT_PACKAGES += \
